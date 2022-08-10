@@ -1,0 +1,3 @@
+required lib python for this application:
+- library flask
+- library sqlite3
